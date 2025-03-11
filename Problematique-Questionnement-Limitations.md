@@ -1,32 +1,47 @@
 ## Problématique 
 
-En adoptant une démarche exploratoire et prosopographique, ce travail cherche à proposer une lecture du champ sportif international du football, tel qu’il se manifeste à travers le classement des joueurs du Ballon d'Or depuis 1956. L’objectif est de donner une représentation simplifiée de la structure de ce champ, de ses évolutions au fil du temps, et des formes de reconnaissance (symbolique, sociale, économique) qui le traversent.
+En adoptant une démarche exploratoire et prosopographique, ce travail cherche à proposer une lecture du champ sportif international du football, tel qu’il se manifeste à travers le classement des joueurs du Ballon d'Or depuis 1956. L’objectif est de donner une représentation simplifiée de la structure de ce champ, de ses évolutions au fil du temps, et des formes de reconnaissance qui le traversent.
 
-Nous allons nous intéresser aux profils socio-géographiques et sportifs des joueurs (nationalité sportive, continent d'origine, âge, position sur le terrain, club et championnat au moment de la nomination), ainsi qu'aux structures de domination qui en découlent (répartition des championnats et des clubs dans les classements).
+Nous allons nous intéresser aux profils géographiques et sportifs des joueurs (nationalité sportive, origine, âge, position sur le terrain, club et championnat), ainsi qu'aux structures de domination qui en découlent (répartition des pays, des championnats et des clubs dans les classements).
 
-Puisque l’Europe concentre une grande partie des clubs et des joueurs concernés, nous avons choisi de subdiviser ce continent en plusieurs sous-régions (Europe de l’Ouest, du Sud, du Nord, de l’Est et Centrale), afin de mieux voir les dynamiques internes et les rapports de domination qui s’y jouent.
-
-Au final, ce travail vise à dégager les profils "types" des joueurs qui accèdent aux plus hautes places du Ballon d'Or, mais aussi à comprendre comment ce "champ" du football de haut niveau s’est transformé, notamment avec la mondialisation et la concentration économique autour de certains clubs et ligues, et l’évolution des différentes formes de capital. L’objectif est aussi de proposer un modèle d’évolution de cette structure, pour mieux saisir comment les logiques de reconnaissance dans le football ont changé depuis 1956.
+Au final, ce travail vise à dégager les profils "types" des joueurs qui accèdent aux plus hautes places du Ballon d'Or, mais aussi à comprendre comment ce "champ" du football de haut niveau s’est transformé, notamment avec la mondialisation et la concentration économique autour de certains clubs et ligues. L’objectif est aussi de proposer un modèle d’évolution de cette structure, pour mieux saisir comment les logiques de reconnaissance dans le football ont changé depuis 1956.
 
 ## Questionnement
 
 * Profils géographiques et sportifs des joueurs
-Quels sont les profils géographiques des joueurs figurant dans le top 10 du Ballon d'Or (continent, pays, sous-région européenne) ?
+  
+Quels sont les profils géographiques des joueurs figurant dans le top 10 du Ballon d'Or ?
+
 Quelles sont leurs caractéristiques sportives : âge et position sur le terrain ?
+
 Existe-t-il des profils "types" (combinaisons âge, poste, origine) qui reviennent fréquemment parmi les joueurs du top 10 ?
-Certaines positions (attaquant, milieu, défenseur, gardien) sont-elles sur-représentées ?
-* Clubs et championnats 
+
+Certaines positions sont-elles sur-représentées ?
+
+* Clubs et championnats
+  
 Quels clubs et championnats sont les plus représentés parmi les joueurs classés dans le top 10 ?
-Ces clubs et championnats appartiennent-ils à des zones géographiques spécifiques (continents, sous-régions européennes) ?
+
+Ces clubs et championnats appartiennent-ils à des zones géographiques spécifiques ?
+
 Observe-t-on une concentration autour de quelques grands clubs ou ligues, ou une diversité plus large des équipes représentées ?
-* Évolution temporelle 
-Comment les profils des joueurs (âge, position, nationalité, origine géographique) évoluent-ils au fil des décennies ?
+
+* Évolution temporelle
+  
+Comment les profils des joueurs (âge, position, nationalité, origine) évoluent-ils au fil des décennies ?
+
 L’âge moyen pour accéder au top 10 a-t-il changé (jeunes stars vs joueurs expérimentés) ?
-Comment la répartition des clubs et championnats représentés évolue-t-elle avec le temps ? Voit-on apparaître de nouvelles puissances (nations, ligues) ?
+
+Comment la répartition des clubs et championnats représentés évolue-t-elle avec le temps ? Voit-on apparaître de nouvelles puissances ?
+
 Y a-t-il des périodes marquées par la domination de certains pays, sous-régions européennes, clubs ou championnats ?
+
 * Dynamiques globales du champ footballistique :
+  
 Peut-on identifier des effets de la mondialisation sur la répartition géographique des joueurs, des clubs et des championnats ?
+
 Comment les transformations économiques du football (concentration de richesse, internationalisation des clubs) se reflètent-elles dans les classements du Ballon d'Or ?
+
 Quelles formes de domination symbolique (ex : prestige de certaines ligues ou nations) apparaissent à travers ces classements ?
 
 
