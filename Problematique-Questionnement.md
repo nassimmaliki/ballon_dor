@@ -35,7 +35,7 @@ Nous proposerons également un modèle d’évolution de cette structure, pour c
 ## Source
 
 * Wikipédia de chaque ballon d'or
-* Wikipedia de chaque joueur
+* Wikipédia de chaque joueur
 
 ## Limitations de la démarche
 
