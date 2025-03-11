@@ -2,9 +2,11 @@
 
 En adoptant une démarche exploratoire et prosopographique, ce travail cherche à proposer une lecture du champ sportif international du football, tel qu’il se manifeste à travers le classement des joueurs du Ballon d'Or depuis 1956. L’objectif est de donner une représentation simplifiée de la structure de ce champ, de ses évolutions au fil du temps, et des formes de reconnaissance qui le traversent.
 
-Nous allons nous intéresser aux profils géographiques et sportifs des joueurs (nationalité sportive, origine, âge, position sur le terrain, club et championnat), ainsi qu'aux structures de domination qui en découlent (répartition des pays, des championnats et des clubs dans les classements).
+Le Ballon d'Or n’est pas seulement une récompense de performance sportive. Même s’il distingue les meilleurs joueurs de chaque saison, il prend aussi en compte d’autres dimensions plus difficiles à quantifier : l’impact du joueur sur son équipe, les trophées remportés (individuels et collectifs), l’impact médiatique et marketing, ou encore le charisme et la réputation. Cette complexité fait du Ballon d'Or une forme de reconnaissance globale, qui mélange à la fois la performance, le prestige, et l’image publique des joueurs. C’est pourquoi ce classement offre un point de vue intéressant sur le "champ" du football international, et sur les logiques de valorisation qui y circulent.
 
-Au final, ce travail vise à dégager les profils "types" des joueurs qui accèdent aux plus hautes places du Ballon d'Or, mais aussi à comprendre comment ce "champ" du football de haut niveau s’est transformé, notamment avec la mondialisation et la concentration économique autour de certains clubs et ligues. L’objectif est aussi de proposer un modèle d’évolution de cette structure, pour mieux saisir comment les logiques de reconnaissance dans le football ont changé depuis 1956.
+Nous allons nous intéresser aux profils géographiques et sportifs des joueurs (nationalité sportive, continent d'origine, âge, position sur le terrain, club et championnat), ainsi qu'aux structures de domination qui en découlent (répartition des championnats et des clubs dans les classements).
+
+Au final, ce travail vise à dégager les profils "types" des joueurs qui accèdent aux plus hautes places du Ballon d'Or, mais aussi à comprendre comment ce "champ" du football de haut niveau s’est transformé, notamment avec la mondialisation, la concentration économique autour de certains clubs et ligues, et l’évolution des différentes formes de capital (économique, symbolique, sportif). L’objectif est aussi de proposer un modèle d’évolution de cette structure, pour mieux saisir comment les logiques de reconnaissance dans le football ont changé depuis 1956.
 
 ## Questionnement
 
