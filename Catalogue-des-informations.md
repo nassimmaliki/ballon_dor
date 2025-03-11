@@ -27,7 +27,7 @@
 
 ## Sous-régions européennes
 
-* Europe de l'Ouest	France, Allemagne, Belgique, Pays-Bas, Suisse, Autriche, Luxembourg.
-* Europe du Sud	Espagne, Portugal, Italie, Grèce.
-* Europe du Nord	Angleterre, Écosse, Irlande, Pays de Galles, Danemark, Suède, Norvège, Finlande, Islande.
-* Europe de l'Est et Centrale	Russie, Ukraine, Pologne, Croatie, Serbie, République tchèque, Slovaquie, Hongrie, Bulgarie, Roumanie, Albanie, Slovénie, Bosnie-Herzégovine, etc.
+* Europe de l'Ouest:	France, Allemagne, Belgique, Pays-Bas, Suisse, Autriche, Luxembourg.
+* Europe du Sud:	Espagne, Portugal, Italie, Grèce.
+* Europe du Nord:	Angleterre, Écosse, Irlande, Pays de Galles, Danemark, Suède, Norvège, Finlande, Islande.
+* Europe de l'Est et Centrale:	Russie, Ukraine, Pologne, Croatie, Serbie, République tchèque, Slovaquie, Hongrie, Bulgarie, Roumanie, Albanie, Slovénie, Bosnie-Herzégovine, etc.
