@@ -7,11 +7,11 @@
 * Sous-région d'Europe de naissance (si Europe)	
 * Nationalité sportive	(Nationalité officielle au moment de la nomination)
 * Continent de la nationalité	sportive
-* Sous-région Europe de la nationalité sportive (si Europe)
+* Sous-région d'Europe de la nationalité sportive (si Europe)
 * Position	(Poste principal au moment de la nomination)
 * Âge (Âge du joueur au moment de la nomination)
 * Classement au Ballon d'Or
-* Année Ballon d'Or	(Année de classement dans le top 10)
+* Année du Ballon d'Or	(Année de classement dans le top 10)
 * Club (Nom actuel du club pour lequel le joueur évolue lors de la nomination)
 
 ## Club
