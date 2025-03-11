@@ -47,17 +47,7 @@ Quelles formes de domination symbolique (ex : prestige de certaines ligues ou na
 
 ## Limitations
 
-* Le Ballon d'Or ne représente qu’une partie du football mondial. Jusqu'en 1995, il était uniquement ouvert aux joueurs européens, ce qui a automatiquement exclu tous les non-européens, même ceux qui brillaient dans les grands clubs du continent. Ce n’est qu’à partir de 1995 qu’il s’est ouvert aux joueurs non européens jouant en Europe, puis à tous les joueurs du monde entier à partir de 2007. Cela veut dire que les classements avant 1995 ne donnent qu’une image partielle du champ mondial. Pour mieux comprendre les dynamiques internes à l’Europe, j'ai décidé de subdiviser le continent européen en sous-régions, que ce soit pour la naissance, la nationalité ou le championnat du joueur. Cela nous permettra de voir si certaines zones spécifiques de l’Europe dominent, même au sein de ce continent.
-
-Sous-régions européennes:
-
-Europe de l'Ouest:	France, Allemagne, Belgique, Pays-Bas, Suisse, Autriche, Luxembourg.
-
-Europe du Sud:	Espagne, Portugal, Italie, Grèce.
-
-Europe du Nord:	Angleterre, Écosse, Irlande, Pays de Galles, Danemark, Suède, Norvège, Finlande, Islande.
-
-Europe de l'Est et Centrale:	Russie, Ukraine, Pologne, Croatie, Serbie, République tchèque, Slovaquie, Hongrie, Bulgarie, Roumanie, Albanie, Slovénie, Bosnie-Herzégovine, etc.
+* Le Ballon d'Or ne représente qu’une partie du football mondial. Jusqu'en 1995, il était uniquement ouvert aux joueurs européens, ce qui a automatiquement exclu tous les non-européens, même ceux qui brillaient dans les grands clubs du continent. Ce n’est qu’à partir de 1995 qu’il s’est ouvert aux joueurs non européens jouant en Europe, puis à tous les joueurs du monde entier à partir de 2007. Cela veut dire que les classements avant 1995 ne donnent qu’une image partielle du champ mondial. Pour mieux comprendre les dynamiques internes à l’Europe, j'ai décidé de subdiviser le continent européen en sous-régions, que ce soit pour la naissance, la nationalité ou le championnat du joueur. Cela nous permettra de voir si certaines zones spécifiques de l’Europe dominent, même au sein de ce continent. Les Sous-régions européennes sont l'Europe de l'Ouest (France, Allemagne, Belgique, Pays-Bas, Suisse, Autriche, Luxembourg), l'Europe du Sud (Espagne, Portugal, Italie, Grèce), l'Europe du Nord (Angleterre, Écosse, Irlande, Pays de Galles, Danemark, Suède, Norvège, Finlande, Islande) et l'Europe de l'Est et Centrale (Russie, Ukraine, Pologne, Croatie, Serbie, République tchèque, Slovaquie, Hongrie, Bulgarie, Roumanie, Albanie, Slovénie, Bosnie-Herzégovine, etc).
 
 * Le Ballon d'Or est basé sur le vote de journalistes spécialisés. Cela signifie qu’il s’agit d’une forme de reconnaissance symbolique, et pas d’une mesure "objective" de la performance. Nous faisons néanmoins le choix d’accepter ces classements comme une bonne approximation de la reconnaissance dans le football international, même s'ils sont parfois contestés.
 
