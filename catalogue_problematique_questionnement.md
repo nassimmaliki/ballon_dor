@@ -1,4 +1,5 @@
-Problématique générale
+Problématique générale:
+
 Comment se constitue et évolue le champ de la haute gastronomie française, à travers les trajectoires sociales et professionnelles des chefs français étoilés au Guide Michelin nés à partir de 1801 ?
 
 Dans une logique prosopographique, il s'agit de reconstituer les caractéristiques sociales, éducatives et professionnelles de cette population afin de mieux comprendre les mécanismes d’accès à la reconnaissance symbolique, incarnée par l’obtention d’étoiles Michelin.
