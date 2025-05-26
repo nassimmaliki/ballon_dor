@@ -1,0 +1,14 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?chef ?label ?birthDate WHERE {
+  ?chef a foaf:Person ;
+        rdfs:label ?label ;
+        wdt:P569 ?birthDate .
+
+  FILTER(?birthDate >= "1985-05-25"^^xsd:date)
+}
+ORDER BY ?birthDate
