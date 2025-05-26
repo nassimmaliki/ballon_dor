@@ -1,4 +1,4 @@
-propertyLabel,property,description,question,comment
+propertyLabel,property,description,question
 instance of,P31,Type de l'entité (ex : être humain),Filtrage de base
 occupation,P106,Profession (ex : chef cuisinier),Identifier les chefs de cuisine
 country of citizenship,P27,Nationalité,"Origines sociales, géographie"
