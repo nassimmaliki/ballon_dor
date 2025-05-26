@@ -1,0 +1,13 @@
+propertyLabel,property,description,question,comment
+instance of,P31,Type de l'entité (ex : être humain),Filtrage de base,On sélectionne uniquement les êtres humains
+occupation,P106,Profession (ex : chef cuisinier),Identifier les chefs de cuisine,Peut varier selon les sources
+country of citizenship,P27,Nationalité,"Origines sociales, géographie",Pour restreindre aux chefs français
+place of birth,P19,Lieu de naissance,Répartition géographique,Utile pour visualisation
+date of birth,P569,Date de naissance,"Distribution temporelle, générations",Donnée fréquente
+sex or gender,P21,Sexe,"Analyse par genre, féminisation",Assez bien renseigné
+award received,P166,"Distinctions (Michelin, MOF, etc.)","Analyse du prestige, distinctions multiples",Critique pour ton sujet
+educated at,P69,Formation scolaire ou professionnelle,Parcours scolaires et formation,"Souvent peu rempli, mais à tester"
+member of,P463,Appartenance à une organisation,Réseaux professionnels,Utile si renseigné
+work location,P937,Lieu principal d'activité professionnelle,Localisation des restaurants / établissements,Donnée moins fréquente mais exploitable
+employer,P108,Employeur ou structure,Pour repérer les grandes maisons ou chaînes,À croiser avec le lieu si possible
+notable work,P800,"Œuvre marquante (restaurant, livre, etc.)",Connexions à un établissement de renom,Donnée très variable
