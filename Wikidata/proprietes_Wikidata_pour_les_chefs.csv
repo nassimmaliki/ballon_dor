@@ -1,6 +1,5 @@
 propertyLabel,property,description,question
 instance of,P31,Type de l'entité (ex : être humain),Filtrage de base
-occupation,P106,Profession (ex : chef cuisinier),Identifier les chefs de cuisine
 country of citizenship,P27,Nationalité,"Origines sociales, géographie"
 place of birth,P19,Lieu de naissance,Répartition géographique
 date of birth,P569,Date de naissance,"Distribution temporelle, générations"
