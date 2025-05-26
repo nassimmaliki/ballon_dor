@@ -1,0 +1,1173 @@
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+wd:Q587303 a foaf:Person ;
+    rdfs:label "Pascal Barbot"@fr ;
+    wdt:P569 "1972-06-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3368895 a foaf:Person ;
+    rdfs:label "Patrice Caillault"@fr ;
+    wdt:P569 "1954-04-13T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2965638 a foaf:Person ;
+    rdfs:label "Christian Sinicropi"@fr ;
+    wdt:P569 "1971-09-13T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2918534 a foaf:Person ;
+    rdfs:label "Daniel Boulud"@fr ;
+    wdt:P569 "1955-03-25T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3106276 a foaf:Person ;
+    rdfs:label "Gilles Goujon"@fr ;
+    wdt:P569 "1961-12-10T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q980463 a foaf:Person ;
+    rdfs:label "Jean-Georges Klein"@fr ;
+    wdt:P569 "1950-10-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2895081 a foaf:Person ;
+    rdfs:label "Albert Roux"@fr ;
+    wdt:P569 "1935-10-08T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3310824 a foaf:Person ;
+    rdfs:label "Michel Sarran"@fr ;
+    wdt:P569 "1961-04-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3169948 a foaf:Person ;
+    rdfs:label "Jean-Robert Laloy"@fr ;
+    wdt:P569 "1932-09-20T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2863148 a foaf:Person ;
+    rdfs:label "Arnaud Lallement"@fr ;
+    wdt:P569 "1974-06-28T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2272017 a foaf:Person ;
+    rdfs:label "Éric Ripert"@fr ;
+    wdt:P569 "1965-03-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q8334411 a foaf:Person ;
+    rdfs:label "Éric Pras"@fr ;
+    wdt:P569 "1972-03-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2912099 a foaf:Person ;
+    rdfs:label "Olivier Roellinger"@fr ;
+    wdt:P569 "1955-09-14T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1225410 a foaf:Person ;
+    rdfs:label "Marc Veyrat"@fr ;
+    wdt:P569 "1950-05-08T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1396289 a foaf:Person ;
+    rdfs:label "Fernand Point"@fr ;
+    wdt:P569 "1897-02-25T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1805539 a foaf:Person ;
+    rdfs:label "Marc Meneau"@fr ;
+    wdt:P569 "1943-03-16T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3167241 a foaf:Person ;
+    rdfs:label "Jean-Luc Rabanel"@fr ;
+    wdt:P569 "1964-01-14T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3160368 a foaf:Person ;
+    rdfs:label "Jacques et Laurent Pourcel"@fr
+.
+
+wd:Q3455759 a foaf:Person ;
+    rdfs:label "Régis Marcon"@fr ;
+    wdt:P569 "1956-06-14T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3121912 a foaf:Person ;
+    rdfs:label "Guy Lassausaie"@fr ;
+    wdt:P569 "1961-03-09T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q6120800 a foaf:Person ;
+    rdfs:label "Jacques Pic"@fr ;
+    wdt:P569 "1932-10-31T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2144729 a foaf:Person ;
+    rdfs:label "René Lasserre"@fr ;
+    wdt:P569 "1912-11-12T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2904615 a foaf:Person ;
+    rdfs:label "Guy Savoy"@fr ;
+    wdt:P569 "1953-07-24T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q532069 a foaf:Person ;
+    rdfs:label "Roger Vergé"@fr ;
+    wdt:P569 "1930-04-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3559859 a foaf:Person ;
+    rdfs:label "Vincent Thierry"@fr ;
+    wdt:P569 "1971-11-15T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2966171 a foaf:Person ;
+    rdfs:label "Christophe Cussac"@fr ;
+    wdt:P569 "1955-08-13T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3571745 a foaf:Person ;
+    rdfs:label "Yannick Delpech"@fr ;
+    wdt:P569 "1976-01-06T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1892624 a foaf:Person ;
+    rdfs:label "Marc Haeberlin"@fr ;
+    wdt:P569 "1954-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3350809 a foaf:Person ;
+    rdfs:label "Olivier Bellin"@fr ;
+    wdt:P569 "1971-08-08T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2965417 a foaf:Person ;
+    rdfs:label "Christian Le Squer"@fr ;
+    wdt:P569 "1962-09-30T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1063664 a foaf:Person ;
+    rdfs:label "Charles Barrier"@fr ;
+    wdt:P569 "1916-04-30T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2898404 a foaf:Person ;
+    rdfs:label "Bernard Pacaud"@fr ;
+    wdt:P569 "1947-09-29T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1338393 a foaf:Person ;
+    rdfs:label "Emmanuel Renaut"@fr ;
+    wdt:P569 "1968-01-26T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3369513 a foaf:Person ;
+    rdfs:label "Patrick Henriroux"@fr ;
+    wdt:P569 "1958-11-20T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2894669 a foaf:Person ;
+    rdfs:label "Christophe Aribert"@fr ;
+    wdt:P569 "1971-05-24T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3018370 a foaf:Person ;
+    rdfs:label "David Martin"@fr ;
+    wdt:P569 "1961-08-09T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3168545 a foaf:Person ;
+    rdfs:label "Jean-Paul Jeunet"@fr ;
+    wdt:P569 "1954-12-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3167322 a foaf:Person ;
+    rdfs:label "Jean-Marc Banzo"@fr ;
+    wdt:P569 "1955-03-21T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2833639 a foaf:Person ;
+    rdfs:label "Alexandre Dumaine"@fr ;
+    wdt:P569 "1895-08-26T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3379903 a foaf:Person ;
+    rdfs:label "Philippe Geneletti"@fr ;
+    wdt:P569 "1974-12-29T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q665234 a foaf:Person ;
+    rdfs:label "Émile Jung"@fr ;
+    wdt:P569 "1941-04-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2965167 a foaf:Person ;
+    rdfs:label "Christian Constant"@fr ;
+    wdt:P569 "1950-05-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2829776 a foaf:Person ;
+    rdfs:label "Alain Dutournier"@fr ;
+    wdt:P569 "1949-03-11T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2896199 a foaf:Person ;
+    rdfs:label "Édouard Loubet"@fr ;
+    wdt:P569 "1970-09-25T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2966590 a foaf:Person ;
+    rdfs:label "Christopher Hache"@fr ;
+    wdt:P569 "1981-12-14T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2965669 a foaf:Person ;
+    rdfs:label "Christian Têtedoie"@fr ;
+    wdt:P569 "1961-09-28T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2377244 a foaf:Person ;
+    rdfs:label "Benoît Violier"@fr ;
+    wdt:P569 "1971-08-22T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q5428149 a foaf:Person ;
+    rdfs:label "Fabrice Desvignes"@fr ;
+    wdt:P569 "1972-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2863099 a foaf:Person ;
+    rdfs:label "Arnaud Donckele"@fr ;
+    wdt:P569 "1977-03-29T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2829655 a foaf:Person ;
+    rdfs:label "Alain Chapel"@fr ;
+    wdt:P569 "1937-12-30T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3379637 a foaf:Person ;
+    rdfs:label "Philippe Conticini"@fr ;
+    wdt:P569 "1963-08-16T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3573984 a foaf:Person ;
+    rdfs:label "Yves Thuriès"@fr ;
+    wdt:P569 "1938-06-05T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2244569 a foaf:Person ;
+    rdfs:label "Pierre Gagnaire"@fr ;
+    wdt:P569 "1950-04-09T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q446097 a foaf:Person ;
+    rdfs:label "Anne-Sophie Pic"@fr ;
+    wdt:P569 "1969-07-12T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3298892 a foaf:Person ;
+    rdfs:label "Mathieu Viannay"@fr ;
+    wdt:P569 "1967-07-14T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3380200 a foaf:Person ;
+    rdfs:label "Philippe Legendre"@fr ;
+    wdt:P569 "1958-05-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q363889 a foaf:Person ;
+    rdfs:label "Raymond Oliver"@fr ;
+    wdt:P569 "1909-03-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q4705701 a foaf:Person ;
+    rdfs:label "Alain Roux"@fr ;
+    wdt:P569 "1968-03-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3089575 a foaf:Person ;
+    rdfs:label "Frédéric Anton"@fr ;
+    wdt:P569 "1964-10-15T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2896218 a foaf:Person ;
+    rdfs:label "Yannick Alléno"@fr ;
+    wdt:P569 "1968-12-16T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3167157 a foaf:Person ;
+    rdfs:label "Jean-Luc Germond"@fr ;
+    wdt:P569 "1951-07-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3369238 a foaf:Person ;
+    rdfs:label "Patrick Bertron"@fr ;
+    wdt:P569 "1962-01-22T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2833695 a foaf:Person ;
+    rdfs:label "Alexandre Gauthier"@fr ;
+    wdt:P569 "1979-03-26T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3309122 a foaf:Person ;
+    rdfs:label "Michel Bruneau"@fr ;
+    wdt:P569 "1953-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2748495 a foaf:Person ;
+    rdfs:label "Alain Passard"@fr ;
+    wdt:P569 "1956-08-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3379815 a foaf:Person ;
+    rdfs:label "Philippe Etchebest"@fr ;
+    wdt:P569 "1966-12-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3173521 a foaf:Person ;
+    rdfs:label "Jean Michel Lorain"@fr ;
+    wdt:P569 "1959-01-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2895874 a foaf:Person ;
+    rdfs:label "Thierry Marx"@fr ;
+    wdt:P569 "1959-09-21T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3219110 a foaf:Person ;
+    rdfs:label "Laurent Cesne"@fr ;
+    wdt:P569 "1962-09-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3169814 a foaf:Person ;
+    rdfs:label "Jean-Pierre Vigato"@fr ;
+    wdt:P569 "1952-03-20T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q5562044 a foaf:Person ;
+    rdfs:label "Gilles Epie"@fr ;
+    wdt:P569 "1958-11-03T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1557548 a foaf:Person ;
+    rdfs:label "Guy Martin"@fr ;
+    wdt:P569 "1957-02-03T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q187901 a foaf:Person ;
+    rdfs:label "Alain Ducasse"@fr ;
+    wdt:P569 "1956-09-13T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3009030 a foaf:Person ;
+    rdfs:label "Cyril Lignac"@fr ;
+    wdt:P569 "1977-11-05T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1569825 a foaf:Person ;
+    rdfs:label "Michel Bras"@fr ;
+    wdt:P569 "1946-11-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q287962 a foaf:Person ;
+    rdfs:label "Éric Briffard"@fr ;
+    wdt:P569 "1961-11-30T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2897473 a foaf:Person ;
+    rdfs:label "Bernard Bach"@fr ;
+    wdt:P569 "1961-03-16T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q580118 a foaf:Person ;
+    rdfs:label "Jean-François Piège"@fr ;
+    wdt:P569 "1970-09-25T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2776768 a foaf:Person ;
+    rdfs:label "Alain Senderens"@fr ;
+    wdt:P569 "1939-12-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2847577 a foaf:Person ;
+    rdfs:label "André Daguin"@fr ;
+    wdt:P569 "1935-09-20T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3310761 a foaf:Person ;
+    rdfs:label "Michel Roth"@fr ;
+    wdt:P569 "1959-11-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1367752 a foaf:Person ;
+    rdfs:label "Joël Robuchon"@fr ;
+    wdt:P569 "1945-04-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q822576 a foaf:Person ;
+    rdfs:label "Bernard Loiseau"@fr ;
+    wdt:P569 "1951-01-13T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2926911 a foaf:Person ;
+    rdfs:label "Bruno Oger"@fr ;
+    wdt:P569 "1966-05-09T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2896437 a foaf:Person ;
+    rdfs:label "Benoît Bernard"@fr ;
+    wdt:P569 "1970-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q1296999 a foaf:Person ;
+    rdfs:label "Georges Blanc"@fr ;
+    wdt:P569 "1943-01-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3123653 a foaf:Person ;
+    rdfs:label "Gérald Passedat"@fr ;
+    wdt:P569 "1960-03-24T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q737600 a foaf:Person ;
+    rdfs:label "Michel Guérard"@fr ;
+    wdt:P569 "1933-03-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3124363 a foaf:Person ;
+    rdfs:label "Gérard Vié"@fr ;
+    wdt:P569 "1943-04-11T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q5927413 a foaf:Person ;
+    rdfs:label "Hubert Keller"@fr ;
+    wdt:P569 "1954-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q12131824 a foaf:Person ;
+    rdfs:label "Michel Roux Jr"@fr ;
+    wdt:P569 "1960-05-23T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3507196 a foaf:Person ;
+    rdfs:label "Sylvestre Wahid"@fr ;
+    wdt:P569 "1975-08-03T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2918264 a foaf:Person ;
+    rdfs:label "Raymond Blanc"@fr ;
+    wdt:P569 "1949-11-19T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2918056 a foaf:Person ;
+    rdfs:label "Michel Roux"@fr ;
+    wdt:P569 "1941-04-19T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q2895868 a foaf:Person ;
+    rdfs:label "Jacques Lameloise"@fr ;
+    wdt:P569 "1947-04-06T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q6687923 a foaf:Person ;
+    rdfs:label "Louis Outhier"@fr ;
+    wdt:P569 "1930-12-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3159298 a foaf:Person ;
+    rdfs:label "Jacques Le Divellec"@fr ;
+    wdt:P569 "1932-09-15T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q5428149 a foaf:Person ;
+    rdfs:label "Fabrice Desvignes"@fr ;
+    wdt:P569 "1973-11-29T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3022687 a foaf:Person ;
+    rdfs:label "Denis Fétisson"@fr ;
+    wdt:P569 "1978-01-23T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q3591143 a foaf:Person ;
+    rdfs:label "Éric Fréchon"@fr ;
+    wdt:P569 "1963-11-16T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q83274731 a foaf:Person ;
+    rdfs:label "Fabienne Eymard"@fr ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q64224878 a foaf:Person ;
+    rdfs:label "Lydia Egloff"@fr ;
+    wdt:P569 "1956-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q16678379 a foaf:Person ;
+    rdfs:label "Sylvain Guillemot"@fr ;
+    wdt:P569 "1971-01-24T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q33104183 a foaf:Person ;
+    rdfs:label "Stéphanie Le Quellec"@fr ;
+    wdt:P569 "1981-12-06T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q3104895 a foaf:Person ;
+    rdfs:label "Ghislaine Arabian"@fr ;
+    wdt:P569 "1948-08-03T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q96276426 a foaf:Person ;
+    rdfs:label "Paule Castaing"@fr ;
+    wdt:P569 "1911-03-14T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q105064021 a foaf:Person ;
+    rdfs:label "Mory Sacko"@fr ;
+    wdt:P569 "1992-09-24T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q43629496 a foaf:Person ;
+    rdfs:label "Annie Féolde"@fr ;
+    wdt:P569 "1945-06-15T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q33108705 a foaf:Person ;
+    rdfs:label "Yoann Conte"@fr ;
+    wdt:P569 "1974-09-15T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q27959694 a foaf:Person ;
+    rdfs:label "Dominique Crenn"@fr ;
+    wdt:P569 "1965-04-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q97291168 a foaf:Person ;
+    rdfs:label "Annie Desvignes"@fr ;
+    wdt:P569 "1937-05-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q64349001 a foaf:Person ;
+    rdfs:label "Nicole Fagegaltier"@fr ;
+    wdt:P569 "1963-05-16T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P166 wd:Q242641
+.
+
+wd:Q18547785 a foaf:Person ;
+    rdfs:label "Christophe Marguin"@fr ;
+    wdt:P569 "1969-12-25T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q15613735 a foaf:Person ;
+    rdfs:label "Antoine Westermann"@fr ;
+    wdt:P569 "1949-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q105396989 a foaf:Person ;
+    rdfs:label "Jérôme Banctel"@fr ;
+    wdt:P569 "1971-12-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q125868085 a foaf:Person ;
+    rdfs:label "Lionel Giraud"@fr
+.
+
+wd:Q16268039 a foaf:Person ;
+    rdfs:label "Patrick Jeffroy"@fr ;
+    wdt:P569 "1952-01-25T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q19958558 a foaf:Person ;
+    rdfs:label "Jean-Luc Rocha"@fr ;
+    wdt:P569 "1977-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33112404 a foaf:Person ;
+    rdfs:label "Alain Pégouret"@fr ;
+    wdt:P569 "1966-08-28T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q21427050 a foaf:Person ;
+    rdfs:label "Jean-André Charial"@fr ;
+    wdt:P569 "1945-07-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q70755363 a foaf:Person ;
+    rdfs:label "Victor Mercier"@fr ;
+    wdt:P569 "1990-09-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q24940343 a foaf:Person ;
+    rdfs:label "Romain Fornell"@fr ;
+    wdt:P569 "1976-12-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q15457336 a foaf:Person ;
+    rdfs:label "Philippe Bohrer"@fr ;
+    wdt:P569 "1961-08-31T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q63967443 a foaf:Person ;
+    rdfs:label "Grégory Marchand"@fr ;
+    wdt:P569 "1978-07-20T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q63892372 a foaf:Person ;
+    rdfs:label "Florent Ladeyn"@fr ;
+    wdt:P569 "1984-06-05T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q62197078 a foaf:Person ;
+    rdfs:label "Hugo Roellinger"@fr ;
+    wdt:P569 "1988-02-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33120818 a foaf:Person ;
+    rdfs:label "Christophe Saintagne"@fr ;
+    wdt:P569 "1977-10-30T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16629641 a foaf:Person ;
+    rdfs:label "Dominique Bouchet"@fr ;
+    wdt:P569 "1952-07-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q15992373 a foaf:Person ;
+    rdfs:label "Laurent Peugeot"@fr ;
+    wdt:P569 "1974-01-08T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q68710483 a foaf:Person ;
+    rdfs:label "Coline Faulquier"@fr ;
+    wdt:P569 "1989-05-10T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q83633336 a foaf:Person ;
+    rdfs:label "Olivier Nasti"@fr ;
+    wdt:P569 "1966-12-09T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q20666487 a foaf:Person ;
+    rdfs:label "David Zuddas"@fr ;
+    wdt:P569 "1967-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q53775759 a foaf:Person ;
+    rdfs:label "François Adamski"@fr ;
+    wdt:P569 "http://www.wikidata.org/.well-known/genid/204d17e3ff488127898ec659c70565ea"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q87009020 a foaf:Person ;
+    rdfs:label "Ludovic Turac"@fr ;
+    wdt:P569 "1988-05-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q19629366 a foaf:Person ;
+    rdfs:label "Jean Delaveyne"@fr ;
+    wdt:P569 "1919-05-22T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q110779163 a foaf:Person ;
+    rdfs:label "Baptiste Renouard"@fr ;
+    wdt:P569 "1991-09-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33200389 a foaf:Person ;
+    rdfs:label "Dimitri Droisneau"@fr ;
+    wdt:P569 "1980-01-11T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q59622849 a foaf:Person ;
+    rdfs:label "Laurent Petit"@fr ;
+    wdt:P569 "1963-06-22T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q23461501 a foaf:Person ;
+    rdfs:label "Éric Guerin"@fr ;
+    wdt:P569 "1970-02-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q73366776 a foaf:Person ;
+    rdfs:label "Christopher Coutanceau"@fr ;
+    wdt:P569 "1978-10-12T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q23926141 a foaf:Person ;
+    rdfs:label "Frédéric Simonin"@fr ;
+    wdt:P569 "1975-07-31T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q23926374 a foaf:Person ;
+    rdfs:label "Romain Meder"@fr ;
+    wdt:P569 "1978-10-31T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q120176361 a foaf:Person ;
+    rdfs:label "Serge Vieira"@fr ;
+    wdt:P569 "1977-04-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q73157420 a foaf:Person ;
+    rdfs:label "Christophe Hay"@fr ;
+    wdt:P569 "1977-06-13T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16679907 a foaf:Person ;
+    rdfs:label "Thierry Drapeau"@fr ;
+    wdt:P569 "1966-07-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q120416143 a foaf:Person ;
+    rdfs:label "Gilles Reinhardt"@fr ;
+    wdt:P569 "1975-01-01T00:00:00Z"^^xsd:date
+.
+
+wd:Q68659404 a foaf:Person ;
+    rdfs:label "Guillaume Pape"@fr ;
+    wdt:P569 "1991-12-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q15613735 a foaf:Person ;
+    rdfs:label "Antoine Westermann"@fr ;
+    wdt:P569 "1946-04-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q15715745 a foaf:Person ;
+    rdfs:label "Thibaut Ruggeri"@fr ;
+    wdt:P569 "1980-09-05T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q26506507 a foaf:Person ;
+    rdfs:label "Mathieu Pacaud"@fr ;
+    wdt:P569 "1981-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q96283384 a foaf:Person ;
+    rdfs:label "Philippe Labbé"@fr ;
+    wdt:P569 "1961-07-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q23771753 a foaf:Person ;
+    rdfs:label "Michel Portos"@fr ;
+    wdt:P569 "1963-04-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16645268 a foaf:Person ;
+    rdfs:label "Jean-Louis Nomicos"@fr ;
+    wdt:P569 "1967-06-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q58356358 a foaf:Person ;
+    rdfs:label "Alan Geaam"@fr ;
+    wdt:P569 "1974-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16640679 a foaf:Person ;
+    rdfs:label "Guy Legay"@fr ;
+    wdt:P569 "1939-12-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33101925 a foaf:Person ;
+    rdfs:label "Jacques Maximin"@fr ;
+    wdt:P569 "1948-03-03T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q133934101 a foaf:Person ;
+    rdfs:label "Jérôme Ryon"@fr ;
+    wdt:P569 "1972-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q117616165 a foaf:Person ;
+    rdfs:label "Stéphane Tournié"@fr ;
+    wdt:P569 "1969-02-01T00:00:00Z"^^xsd:date
+.
+
+wd:Q64534061 a foaf:Person ;
+    rdfs:label "Diego Delbecq"@fr ;
+    wdt:P569 "1988-02-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q68596060 a foaf:Person ;
+    rdfs:label "Camille Delcroix"@fr ;
+    wdt:P569 "1989-11-11T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33112838 a foaf:Person ;
+    rdfs:label "Akrame Benallal"@fr ;
+    wdt:P569 "1981-06-22T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q80787823 a foaf:Person ;
+    rdfs:label "Alexandre Mazzia"@fr ;
+    wdt:P569 "1976-04-30T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q81520484 a foaf:Person ;
+    rdfs:label "Franck Pelux"@fr ;
+    wdt:P569 "1988-02-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16195729 a foaf:Person ;
+    rdfs:label "Paul Pairet"@fr ;
+    wdt:P569 "1964-06-29T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q90132085 a foaf:Person ;
+    rdfs:label "Jacques Manière"@fr ;
+    wdt:P569 "1923-10-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q20089599 a foaf:Person ;
+    rdfs:label "Daniel Galmiche"@fr ;
+    wdt:P569 "1958-06-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q109037512 a foaf:Person ;
+    rdfs:label "Jean Le Hir"@fr ;
+    wdt:P569 "1913-04-17T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q59622849 a foaf:Person ;
+    rdfs:label "Laurent Petit"@fr ;
+    wdt:P569 "1962-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q20685695 a foaf:Person ;
+    rdfs:label "Jean Sulpice"@fr ;
+    wdt:P569 "1978-07-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q82755582 a foaf:Person ;
+    rdfs:label "Glenn Viel"@fr ;
+    wdt:P569 "1980-01-02T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16637394 a foaf:Person ;
+    rdfs:label "Frédéric Vardon"@fr ;
+    wdt:P569 "1967-06-26T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q19630088 a foaf:Person ;
+    rdfs:label "Jean Bardet"@fr ;
+    wdt:P569 "1941-09-27T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q29652447 a foaf:Person ;
+    rdfs:label "Hubert Maetz"@fr ;
+    wdt:P569 "1961-03-10T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q94939047 a foaf:Person ;
+    rdfs:label "Michel Del Burgo"@fr ;
+    wdt:P569 "1962-06-21T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q90132085 a foaf:Person ;
+    rdfs:label "Jacques Manière"@fr ;
+    wdt:P569 "1923-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16034380 a foaf:Person ;
+    rdfs:label "Marc Meurin"@fr ;
+    wdt:P569 "1953-01-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q112244796 a foaf:Person ;
+    rdfs:label "Jacques Decoret"@fr ;
+    wdt:P569 "1965-11-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q85432458 a foaf:Person ;
+    rdfs:label "Sébastien Vauxion"@fr ;
+    wdt:P569 "1983-05-29T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q17486075 a foaf:Person ;
+    rdfs:label "Bruno Loubet"@fr ;
+    wdt:P569 "1961-01-01T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q124809833 a foaf:Person ;
+    rdfs:label "Julien Lemarié"@fr ;
+    wdt:P569 "1977-03-24T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q125688805 a foaf:Person ;
+    rdfs:label "Cédric Burtin"@fr ;
+    wdt:P569 "1981-03-09T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33103692 a foaf:Person ;
+    rdfs:label "Franck Putelat"@fr ;
+    wdt:P569 "1969-11-07T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q110986116 a foaf:Person ;
+    rdfs:label "Vincent Favre Félix"@fr ;
+    wdt:P569 "1977-08-26T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q87011903 a foaf:Person ;
+    rdfs:label "Guillaume Sanchez"@fr ;
+    wdt:P569 "1990-10-05T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33103496 a foaf:Person ;
+    rdfs:label "Pascal Bastian"@fr ;
+    wdt:P569 "1978-11-24T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33112500 a foaf:Person ;
+    rdfs:label "Alexandre Couillon"@fr ;
+    wdt:P569 "1975-12-09T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q33102743 a foaf:Person ;
+    rdfs:label "William Ledeuil"@fr ;
+    wdt:P569 "1964-10-19T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q125619863 a foaf:Person ;
+    rdfs:label "Fabien Ferré"@fr ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q81199891 a foaf:Person ;
+    rdfs:label "Nicolas Sale"@fr ;
+    wdt:P569 "1972-07-29T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q8159 a foaf:Person ;
+    rdfs:label "Paul Bocuse"@fr ;
+    wdt:P569 "1926-02-11T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16269549 a foaf:Person ;
+    rdfs:label "Jean-Paul Abadie"@fr ;
+    wdt:P569 "1958-02-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q16645490 a foaf:Person ;
+    rdfs:label "Jean Imbert"@fr ;
+    wdt:P569 "1981-01-18T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q96056272 a foaf:Person ;
+    rdfs:label "David Gallienne"@fr ;
+    wdt:P569 "1988-10-04T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
+
+wd:Q60178747 a foaf:Person ;
+    rdfs:label "Pierre Orsi"@fr ;
+    wdt:P569 "1939-07-12T00:00:00Z"^^xsd:date ;
+    wdt:P21 wd:Q6581072
+.
