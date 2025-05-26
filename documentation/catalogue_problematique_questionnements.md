@@ -2,9 +2,6 @@ Problématique générale:
 
 Comment se constitue et évolue le champ de la haute gastronomie française, à travers les trajectoires sociales et professionnelles des chefs français étoilés au Guide Michelin nés à partir de 1801 ?
 
-Dans une logique prosopographique, il s'agit de reconstituer les caractéristiques sociales, éducatives et professionnelles de cette population afin de mieux comprendre les mécanismes d’accès à la reconnaissance symbolique, incarnée par l’obtention d’étoiles Michelin.
-Le projet s'inspire des notions de champ, habitus et capital développées par Pierre Bourdieu : les chefs peuvent être analysés comme des agents insérés dans un espace de positions structuré par des logiques propres (formation, concours, appartenance à des institutions, géographie du prestige…).
-
 1. Origines et formation
 Quelles sont les régions ou pays d’origine des chefs étoilés ?
 
