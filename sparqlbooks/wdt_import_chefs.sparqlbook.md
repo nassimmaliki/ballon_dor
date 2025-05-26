@@ -11,7 +11,7 @@ Pour chaque chef dans notre liste, on souhaite récupérer :
 - La date de naissance
 - Le lieu de naissance
 - Le genre (sexe)
-- Les distinctions reçues, notamment les étoiles Michelin
+- Les distinctions reçues, notamment les étoiles Michelin (ça ne s'est pas avéré concluant, mais je l'ai quand même laissé)
 
 ---
 
@@ -238,25 +238,3 @@ SELECT DISTINCT ?chef ?chefLabel ?birthDate ?birthPlaceLabel ?genderLabel ?award
 
 ---
 
-### Fichier source de la population
-Les QIDs utilisés dans `VALUES ?chef` proviennent du fichier CSV :
-```
-Wikidata/chefs_francais_etoiles_michelin.csv
-```
-
-Ils peuvent être copiés automatiquement dans la requête via un script Python.
-
----
-
-### Format de sortie recommandé
-Une fois exécutée sur [query.wikidata.org](https://query.wikidata.org), exporter les résultats en :
-- CSV pour les analyses Jupyter
-- JSON-LD si création d'une base RDF
-
----
-
-### Prochaine étape
-Utiliser ces données comme entrée dans un notebook Jupyter pour analyser, par exemple :
-- La distribution des dates de naissance
-- La répartition géographique
-- Le genre des chefs ayant reçu des distinctions
