@@ -1,10 +1,10 @@
 
-# Répartition des chefs étoilés par genre
+# 1. Répartition des chefs étoilés par genre
 
 ## Questionnement
 
-Dans quelle mesure la répartition par genre des chefs étoilés Michelin en France reflète-t-elle des inégalités dans l’accès à cette distinction professionnelle ?
-Ce questionnement est pertinent car la haute gastronomie est un champ historiquement masculin. Explorer les inégalités de genre dans cette population permet de mieux comprendre les dynamiques de pouvoir, de reconnaissance et de visibilité dans un domaine fortement hiérarchisé.
+Dans quelle mesure la répartition par genre des chefs étoilés Michelin en France révèle-t-elle des inégalités d’accès à cette reconnaissance professionnelle ?
+Ce questionnement est central pour une lecture prosopographique des élites gastronomiques, car il interroge les mécanismes de visibilité, de légitimation et de distinction dans un univers historiquement masculin et fortement hiérarchisé.
 
 ---
 
@@ -20,14 +20,16 @@ A partir du notebook wdt_repartition_genre.ipynb:
 
 ## Interprétation
 
-Le graphique montre une forte prédominance masculine. Les femmes représentent une minorité très réduite de cette population.
-Cette répartition ne peut pas être réduite à des choix individuels : elle reflète des mécanismes structurels et symboliques d’exclusion, parmi lesquels :
+La visualisation montre une écrasante majorité masculine, confirmant l’hypothèse d’une exclusion structurelle des femmes de la reconnaissance gastronomique suprême.
+Mais cette inégalité ne peut être lue de façon isolée. Elle entre en résonance avec les deux autres analyses, notamment celle sur l’évolution générationnelle.
 
-Un accès plus difficile pour les femmes aux postes les plus visibles et hiérarchiquement élevés ;
+En effet, si les femmes sont minoritaires dans la population globale, une analyse par génération (cf. questionnement 2) pourrait laisser espérer une amélioration dans les cohortes plus récentes. Or, cette hypothèse ne se confirme pas : la sous-représentation féminine reste stable à travers les générations.
 
-Une médiatisation historiquement orientée vers les figures masculines ;
+Ce constat suggère une double inertie :
 
-Une culture gastronomique qui valorise l’autorité et la figure du « grand chef », généralement incarnée par un homme.
+d’une part, une tradition masculine profondément ancrée dans la culture gastronomique,
+
+d’autre part, une absence de rupture générationnelle, malgré les discours progressistes.
 
 ---
 
