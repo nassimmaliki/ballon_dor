@@ -34,7 +34,9 @@ Ces données ont ensuite été stockées dans un fichier CSV `wdt_donnees_chefs.
 
 ## Graphique à insérer
 
-> 📊 Histogramme de la répartition des dates de naissance (à intégrer à partir du notebook `wdt_distribution_naissances_chefs.ipynb`)
+A partir du notebook wdt_distribution_naissances_chefs.ipynb
+![image](https://github.com/user-attachments/assets/72972e6b-9b61-4fc3-baf0-4705d80a1026)
+
 
 ---
 
