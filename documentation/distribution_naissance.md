@@ -7,14 +7,6 @@ Ce questionnement vise à identifier d’éventuelles dynamiques historiques ou 
 
 ---
 
-## Données utilisées
-
-Les données ont été extraites de Wikidata à l’aide d’une requête SPARQL. Nous avons utilisé une liste de QID de chefs français étoilés Michelin, puis récupéré leur date de naissance (propriété `P569`).
-
-Ces données ont ensuite été stockées dans un fichier CSV `wdt_donnees_chefs.csv` traité dans un notebook Jupyter pour visualiser la distribution des années de naissance.
-
----
-
 ## Méthode
 
    - Conversion des dates de naissance en années
