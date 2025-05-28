@@ -20,7 +20,8 @@ Chaque chef est identifié par son QID, et pour chacun on a collecté son genre 
 
 ## Graphique
 
-(Insérer ici le graphique `nombre_femmes_par_generation.png` ou l’image exportée depuis le notebook)
+![image](https://github.com/user-attachments/assets/8f27d258-4caf-499f-9c21-851050ba23c6)
+
 
 ## Interprétation
 
