@@ -17,7 +17,7 @@ Autrement dit, est-ce que les nouvelles générations comptent davantage de femm
 ---
 
 ## Résultat
-A partir du notebook wdt_evolution_femme:
+A partir du notebook wdt_evolution_femme.ipynb:
 
 ![image](https://github.com/user-attachments/assets/8f27d258-4caf-499f-9c21-851050ba23c6)
 
