@@ -25,7 +25,8 @@ La visualisation a été réalisée sous forme de diagramme à barres, avec Matp
 
 Le graphique généré montre une très forte domination des hommes parmi les chefs étoilés référencés dans Wikidata. Les femmes représentent une minorité extrêmement réduite de cette population.
 
-*(Insérer ici le graphique depuis le notebook si tu fais une version HTML)*
+![image](https://github.com/user-attachments/assets/e00a8a29-070c-4534-b4e8-f4b18bd3fc80)
+
 
 ---
 
