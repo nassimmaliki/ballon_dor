@@ -3,8 +3,8 @@
 
 ## Questionnement
 
-Dans quelle mesure la répartition par genre des chefs étoilés Michelin en France révèle-t-elle des inégalités d’accès à cette reconnaissance professionnelle ?
-Ce questionnement est central pour une lecture prosopographique des élites gastronomiques, car il interroge les mécanismes de visibilité, de légitimation et de distinction dans un univers historiquement masculin et fortement hiérarchisé.
+Dans cette première analyse, on s'intéresse à la proportion d’hommes et de femmes parmi les chefs étoilés Michelin en France.
+Ce sujet est important car il permet de questionner les inégalités d’accès à la reconnaissance dans le monde de la haute gastronomie. Le métier de chef, souvent perçu comme prestigieux, reste-t-il aujourd’hui réservé aux hommes ? Cette question mérite d’être posée dans une approche plus large sur la place des femmes dans les professions d’élite.
 
 ---
 
@@ -20,22 +20,12 @@ A partir du notebook wdt_repartition_genre.ipynb:
 
 ## Interprétation
 
-La visualisation montre une écrasante majorité masculine, confirmant l’hypothèse d’une exclusion structurelle des femmes de la reconnaissance gastronomique suprême.
-Mais cette inégalité ne peut être lue de façon isolée. Elle entre en résonance avec les deux autres analyses, notamment celle sur l’évolution générationnelle.
-
-En effet, si les femmes sont minoritaires dans la population globale, une analyse par génération (cf. questionnement 2) pourrait laisser espérer une amélioration dans les cohortes plus récentes. Or, cette hypothèse ne se confirme pas : la sous-représentation féminine reste stable à travers les générations.
-
-Ce constat suggère une double inertie :
-
-d’une part, une tradition masculine profondément ancrée dans la culture gastronomique,
-
-d’autre part, une absence de rupture générationnelle, malgré les discours progressistes.
+Les résultats sont très clairs : la grande majorité des chefs étoilés sont des hommes.
+Les femmes représentent une toute petite part de cette population. Ce déséquilibre ne peut pas s’expliquer uniquement par des parcours individuels ou des choix personnels. Il reflète plutôt un système professionnel dans lequel les femmes ont moins d’accès à la reconnaissance.
 
 ---
 
 ## Conclusion
 
-La domination masculine dans le champ des chefs étoilés ne relève pas d’un simple retard d’adaptation.
-Elle résulte de mécanismes d’exclusion profondément enracinés, reproduits génération après génération, et rendus invisibles par la nature élitiste et compétitive du monde gastronomique.
-
----
+Cette première analyse met en évidence un fort déséquilibre entre hommes et femmes parmi les chefs étoilés.
+Cela montre que l’accès à la reconnaissance dans ce domaine est très inégal, et que les femmes ont encore peu de visibilité dans les plus hautes sphères de la gastronomie.
