@@ -25,7 +25,7 @@ Chaque chef est identifié par son QID, et pour chacun on a collecté son genre 
 ## Interprétation
 
 Le graphique montre que le nombre de femmes chefs étoilés reste très faible sur l’ensemble des générations.  
-On pourrait s’attendre à une augmentation progressive au fil du temps, mais les données montrent que cette progression est très limitée, voire inexistante.
+On pourrait s’attendre à une augmentation progressive au fil du temps, mais les données montrent que cette progression inexistante.
 
 Cela reflète une inégalité persistante dans l'accès à la reconnaissance professionnelle dans le champ de la haute gastronomie.  
 Cette inégalité peut s’expliquer par plusieurs facteurs :
@@ -33,7 +33,7 @@ Cette inégalité peut s’expliquer par plusieurs facteurs :
 - des freins structurels à leur accès aux postes les plus visibles,
 - un biais de sélection ou de valorisation masculine dans les institutions comme le guide Michelin.
 
-Le test du Chi-2 confirme statistiquement que la répartition par génération n’est **pas significativement différente** : les femmes restent toujours sous-représentées, génération après génération.
+Le test du Chi-2 confirme statistiquement que la répartition par génération n’est pas significativement différente: les femmes restent toujours sous-représentées, génération après génération.
 
 ## Conclusion
 
