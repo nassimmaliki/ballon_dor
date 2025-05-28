@@ -1,4 +1,3 @@
-
 # 1. Répartition des chefs étoilés par genre
 
 ## Questionnement
@@ -8,13 +7,11 @@ Ce sujet est important car il permet de questionner les inégalités d’accès 
 
 ---
 
-
 ## Résultat
 
 A partir du notebook wdt_repartition_genre.ipynb:
 
 ![image](https://github.com/user-attachments/assets/e00a8a29-070c-4534-b4e8-f4b18bd3fc80)
-
 
 ---
 
