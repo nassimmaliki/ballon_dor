@@ -9,7 +9,7 @@ Ce questionnement est pertinent car la haute gastronomie est un champ historique
 ---
 
 
-## 3. Résultat
+## Résultat
 
 A partir du notebook wdt_repartition_genre.ipynb:
 
