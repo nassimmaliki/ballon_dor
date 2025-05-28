@@ -18,6 +18,7 @@ Cette question permet de mieux comprendre quand les chefs étoilés sont génér
 ## Résultat
 
 A partir du notebook wdt_distribution_naissances.ipynb
+
 ![image](https://github.com/user-attachments/assets/72972e6b-9b61-4fc3-baf0-4705d80a1026)
 
 ---
