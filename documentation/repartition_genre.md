@@ -35,7 +35,7 @@ d’autre part, une absence de rupture générationnelle, malgré les discours p
 
 ## Conclusion
 
-La répartition genrée des chefs étoilés met en évidence une inégalité structurelle persistante dans le champ gastronomique.
-Cette observation s’inscrit dans une lecture sociologique des inégalités de genre, à la lumière des théories de Pierre Bourdieu sur la reproduction sociale et les mécanismes de distinction.
+La domination masculine dans le champ des chefs étoilés ne relève pas d’un simple retard d’adaptation.
+Elle résulte de mécanismes d’exclusion profondément enracinés, reproduits génération après génération, et rendus invisibles par la nature élitiste et compétitive du monde gastronomique.
 
 ---
