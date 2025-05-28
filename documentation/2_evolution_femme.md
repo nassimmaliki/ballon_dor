@@ -1,12 +1,9 @@
 # 2. Évolution du nombre de femmes chefs étoilés par génération
 
----
-
 ## Questionnement
 
-La proportion de femmes parmi les chefs étoilés a-t-elle augmenté avec le temps ?
-Autrement dit, les nouvelles générations de chefs ont-elles permis une meilleure inclusion des femmes dans la reconnaissance professionnelle par les étoiles Michelin ?
-Cette question vient compléter le premier questionnement : si une inégalité existe aujourd’hui, est-elle le reflet d’un passé révolu ou d’un phénomène toujours actif ?
+Est-ce que la place des femmes parmi les chefs étoilés a évolué au fil du temps ?
+Autrement dit, est-ce que les nouvelles générations comptent davantage de femmes que les anciennes ? Cette question est importante pour savoir si la situation actuelle est en train de s’améliorer, ou si les inégalités observées restent stables.
 
 ---
 
@@ -27,20 +24,14 @@ A partir du notebook wdt_evolution_femme:
 
 ## Interprétation
 
-Contrairement à ce qu’on pourrait attendre d’une société en progrès sur les questions d’égalité, aucune progression claire n’émerge.
-Le test du chi² confirme l'absence de variation significative :
+On pourrait s’attendre à voir une augmentation régulière du nombre de femmes avec les nouvelles générations. Mais ce n’est pas ce que les données montrent.
+Même dans les générations les plus récentes, le nombre de femmes reste faible. Le test du Chi-2 confirme cette stabilité : χ² = 2.04, p = 0.564 → les écarts entre générations sont statistiquement insignifiants.
 
-χ² = 2.04, p = 0.564 → les écarts entre générations sont statistiquement insignifiants.
+Cela rejoint directement ce qu’on a vu dans la première analyse : les inégalités de genre ne se corrigent pas naturellement avec le temps. Même si les femmes ont gagné en visibilité dans d’autres domaines, la haute gastronomie semble rester un espace difficilement accessible pour elles.
 
-Ce résultat renforce l’analyse du premier questionnement. Il révèle que les freins à la reconnaissance professionnelle des femmes dans la haute gastronomie ne sont pas en voie de résorption, mais se maintiennent sur le long terme.
-
-Cela interroge la nature même des mécanismes de distinction dans ce champ : l’accès à l’étoile ne dépend pas uniquement de compétences culinaires, mais aussi de réseaux, de capital symbolique, et de conformité à des normes masculines de leadership.
 ---
 
 ## Conclusion
 
-L’analyse générationnelle ne montre aucune inflexion positive pour les femmes.
-Cette stabilité est inquiétante car elle montre l’inefficacité des transformations sociales à impacter un univers professionnel fortement normé.
-Le guide Michelin, loin d’être neutre, semble au contraire reproduire les hiérarchies existantes, validant ainsi une lecture critique des institutions de reconnaissance.
-
----
+Cette deuxième analyse confirme que la sous-représentation des femmes parmi les chefs étoilés ne s’améliore pas vraiment avec les nouvelles générations.
+Il ne suffit pas d’attendre que le temps passe pour que les inégalités disparaissent. Des freins profonds, comme la manière dont la reconnaissance est attribuée ou la valorisation des carrières masculines, continuent de jouer un rôle.
